@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C9A56E2-2A81-4998-9FA6-435738252C0A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>creatBarCode</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C87E7C141D95F34E36F1D6E076FA580714D1BAA6</key>
+		<string>https://github.com/ypwhs/creatBarCode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>creatBarCode.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C87E7C141D95F34E36F1D6E076FA580714D1BAA6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ypwhs/creatBarCode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C87E7C141D95F34E36F1D6E076FA580714D1BAA6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C87E7C141D95F34E36F1D6E076FA580714D1BAA6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>creatBarCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>

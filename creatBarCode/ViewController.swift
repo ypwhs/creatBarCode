@@ -49,7 +49,7 @@ class ViewController: UIViewController {
             
             println(a)
             
-            var text = "开始生成\n目标数字:6"+numbertext.text
+            var text = "目标条码:6"+numbertext.text
             
             //生成检验码
             var c1 = numbers[12]+numbers[10]+numbers[8]
@@ -81,7 +81,7 @@ class ViewController: UIViewController {
             barcode += Cji[numbers[0]]
             barcode += start
             
-            text += "编码后:\n" + start + " "
+            text += "编码后:" + start + " "
             text += Aji[numbers[11]] + " "
             text += Bji[numbers[10]] + " "
             text += Bji[numbers[9]] + " "
